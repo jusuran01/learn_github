@@ -1,5 +1,3 @@
 # learn_github
 
-I am a pharmaceutical research and development professional based in Thailand, with strong expertise in formulation development, analytical method development, and process optimization for generic medicines and healthcare products. My work spans the full development cycle—from experimental design and laboratory-scale studies to scale-up, validation, and technology transfer to manufacturing sites. I am particularly experienced in solid oral dosage forms, stability studies, dissolution profile comparison, and compliance with international standards such as USP and ISO/IEC 17025.
-
-Beyond technical R&D, I am actively involved in business development and customer support, bridging scientific knowledge with practical, commercial solutions. I have written and implemented SOPs, supported regulatory and quality activities, and collaborated closely with cross-functional teams, customers, and suppliers. I also have a strong interest in data analytics and digital tools to improve efficiency in pharmaceutical operations.
+27-Jan-2026  start on github journey.
