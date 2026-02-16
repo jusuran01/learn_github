@@ -1,5 +1,5 @@
 # ---------------------------------------------------------
-# REDUCED RUN OPTIMIZATION DESIGN (11 Runs Total)
+# REDUCED RUN OPTIMIZATION DESIGN
 # ---------------------------------------------------------
 
 library(rsm)
@@ -49,7 +49,7 @@ final_reduced_experiment <- design_data %>%
 
 # 3. View and Export
 # ---------------------------------------------------------
-print("Reduced Optimization Design (11 Runs):")
+print("Reduced Optimization Design:")
 print(final_reduced_experiment)
 
 # Save to CSV
@@ -59,6 +59,6 @@ write.csv(final_reduced_experiment, "Reduced_Formulation_DOE.csv", row.names = F
 # ---------------------------------------------------------
 # You will see the 3 center points stacked in the middle
 plot(final_reduced_experiment$Povidone_K30_Real, final_reduced_experiment$Primojel_Real, 
-     main="Reduced Design Layout (11 Runs)", 
+     main="Reduced Design Layout", 
      xlab="Povidone %", ylab="Primojel %", pch=19, col="blue", cex=1.5)
 grid()
