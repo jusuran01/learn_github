@@ -1,5 +1,5 @@
 # ---------------------------------------------------------
-# REDUCED RUN OPTIMIZATION DESIGN
+# Faces center composite design
 # ---------------------------------------------------------
 
 library(rsm)
