@@ -1,5 +1,5 @@
 # ---------------------------------------------------------
-# Faces center composite design
+# Face centered composite design
 # ---------------------------------------------------------
 
 library(rsm)
